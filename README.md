@@ -9,7 +9,7 @@ Assurez-vous d'avoir les éléments suivants installés :
 - PHP 7.3 ou supérieur
 - Composer
 - Node.js et npm
-- MySQL ou SQLite
+- MySQL
 
 ## Installation
 
